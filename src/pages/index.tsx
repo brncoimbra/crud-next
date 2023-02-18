@@ -31,7 +31,7 @@ export default function Home() {
     >
       <Layout titulo='Cadastro Simples'>
         <div className='flex justify-end'>
-          <Botao cor='green' className='mb-4' onClick={handleButton}>
+          <Botao cor="green" className='mb-4' onClick={handleButton}>
             Novo Cliente
           </Botao>
         </div>
